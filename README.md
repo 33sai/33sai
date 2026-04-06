@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ariunbat
 
-🎓 **Junior Backend Developer (Java)**  
+🎓 **Aspiring Junior Backend Developer (Java)**  
 📍 ITMO University — Software Engineering  
 
 ---
