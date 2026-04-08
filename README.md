@@ -12,29 +12,16 @@ Currently focused on **Java backend development**, networking, and databases.
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
+## 🛠 Tech Stack 
 - Java
 - Python
-
-### 🌐 Networking
-- TCP/IP
-
-### 🗄 Database
 - PostgreSQL
-
-### ⚙️ Tools
 - Git
 - IntelliJ IDEA
 - Maven
 - UNIX CLI
-
 ---
 
 ## 📌 Current Focus
 - Backend development with Java
-- Building client-server applications
 - Improving system design fundamentals
-
----
