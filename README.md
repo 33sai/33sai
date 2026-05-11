@@ -6,10 +6,10 @@
 - Java
 - Python
 - PostgreSQL
+- JDBC
 - Git
 - IntelliJ IDEA
 - Maven
-- UNIX CLI
 ---
 ## 📌 Current Focus
 - Backend development with Java
